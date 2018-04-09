@@ -19,7 +19,7 @@ This web app functions as a typical online shopping mall:
  
 
 Account privileges:
-admin - edit listing products, alter orders, ban users, view activity traffics and a visualized user-product relationship network.
-customer - all the common functions listed above.
+ - admin - edit listing products, alter orders, ban users, view activity traffics and a visualized user-product relationship network.
+ - customer - all the common functions listed above.
 
 ![eer](https://user-images.githubusercontent.com/31929318/38487049-45da7090-3c22-11e8-87bc-35046ad7f0fc.png)
