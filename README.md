@@ -4,7 +4,7 @@ A group assignment for comp9321. It was basically developed in pure Java + Servl
 Overall architecture:
 DB <-> c3p0 connection pool <-> DAO + domain/model <-> business layer <-> service <-> controller + view <-> intercepter/filter <-> user
 
-Detailed explaination and performance analysis(jmeter) are in GroupReport-2-24.pdf.
+Detailed explaination and performance analysis(jmeter) are seen in GroupReport-2-24.pdf.
 The performance was acceptable when 1400 users visited simultaneously in terms of median RTT(250ms) and server utilization(82%).
 
 
